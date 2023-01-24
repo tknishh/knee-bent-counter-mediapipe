@@ -1,0 +1,3 @@
+# Run main.py file by keeping the input video in same directory.
+
+# Couldn't send output video since it exceeds the limit of 10mb in google form. I've share the link with github repo for reference.
